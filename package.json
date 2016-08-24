@@ -1,0 +1,35 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "MSK Developer Portal",
+  "homepage": "https://github.com/mrpaulphan/gulp-starter",
+  "bugs": {
+    "url": "https://github.com/mrpaulphan/gulp/starter/issues"
+  },
+  "license": "MIT",
+  "author": "mrpaulphan",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrpaulphan/gulp-starter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "gulpfile.js",
+  "dependencies": {
+    "normalize.css": "^4.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-directory-sync": "^1.2.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.9",
+    "jquery": "^3.1.0"
+  }
+}
